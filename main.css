@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Shippori+Antique+B1&display=swap");
+body {
+  background: black;
+  margin: 0;
+  font-family: Poppins;
+}
+
+.navbar {
+  background: white;
+  padding: 2em;
+}
+
+.navbar .logo {
+  font-weight: bold;
+}
+/*# sourceMappingURL=main.css.map */
